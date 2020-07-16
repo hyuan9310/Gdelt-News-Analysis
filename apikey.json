@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avian-casing-229419",
+  "private_key_id": "2fb6d837bbb8952e523934af91bff48e272a0ed7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpXXD0ieZw9J5s\nQlIuM+ZvqY9nPx1i1DKLIJT0W2vlh2cHE2lT9piYsBx/c4SSwKliIRZGSC915NGb\nLTvVqW08ZT6yC5Ta8cX1A0P4ZXoef3Z5hiw8gxWBYSHoDb4rr5jRAuWhZrDQr50V\nmiROs1o6ZPJ4qRIBpp+VMvSWMwAuV7Ha52mKoZ01izb72LweFO77+IYWTdk1bmrD\nKEu2lczWhOYynCkW+YjrGnDCKjnbILs495oKi1IInOlPGAkfvFEOyRJZC6NyNWFK\n1svL+tDRuLoMkCFuXG0oRZJra+/LJTH/nDtW47MuTeilZy3Vl7dtCuvteB0ztTaU\nIGRTQ9JxAgMBAAECggEACpfIj9LsMdZq7jR7tV4TpJpDWN7OtLa27pK8Hkh1iCae\n4AdryA+dXbduIN6VxSP9tCCDpyOurD4CiiUbH/L33RYsBLDKv6LtkbSBlNCsAapR\nO6qTq7k7KBtuJnhtk4fpE/GNcTneBz9koMxCRxXap9pWfAt/D9FfG9LTD23jLgK+\nC14Z8BhtsC8gRnhpKM+1BbBp5TpX27VsA1TV002k6S9I3274fxjC/ESRwpRMyFbm\n3hcIzR3JBbJL/TzXUQphOcgrp7qLROfJ/bqFLrTtJpI9GcMsHmjyvUosqrWkXuUK\nesHJRACthemuJDim+ZnA+Gk2VaT6qqYI74X4dl1xXQKBgQDcS86C7OfUXah/3HJ4\n8bIwKVOy4d3ZwM5SAQhokBVNMa4f5gNpFicYMq8JpNCHKFhmdeyMeJCRt5LSkrqL\n8khwVGkKrwMeHs3qiCwDkmYMgeItqYhF+rlwj9ypaWmpDtWLnEU0RdxCVC1MjYbX\nwMZBXo42xPGtDYz3GEwSIIs+qwKBgQDE0HpPduszCixB+9H054HLqeV9ujMZfumv\nadLfFQxCAyH3R+whfXbwj/ob6RKKQCLgePqCaajtcN8D11skv+1FtNq5qkVJ91fL\nWoYghWTPlcM1Q1luDtTQ3M122UT48k7wiKvG0HR0ABY9K0ABALmRZrk94S7Lmvcf\nWOxd6yeDUwKBgQCD0hjQ31IaEbEyUYduN7KYfyJGeEF4e5b6GwQdDZqxhnjbPZfs\n2gSqxilXa/gb6Fh9dzMFG1/m0iJZPtPBykjubpQsgG0tKOGu5azwtjm6Yj4ldLzG\nozEz2eIAvcMsFmRSFkCS9vrF9fjlRgraL9BybVJME61KEEG52iAq+K5Z4QKBgCjj\nIrXFf8E/uMgQd6LIQZe8+PcwqpL+Ya/WbT95EO3Z1sGXiH/An+gEETKhLf/YqSY3\nG9vh9X02eK5EnCO7V6CmnNX7gJ+IKg4OBVVWQQY7F63GCxspK58kb+7j3kdVl36y\n9fS8s6Sxq+0TQh2zN9n0HEG1uVIFJJe3kotEYhYPAoGBAIB2VHU1uLAYCkjaJGbc\nLp+0fWERzdDDq1mzbOpSSSBr+xWcjv0uTAXjyXnEiJMp4ZIQKYX/FQ7pVstkBeUH\ndqhoslsEfl4MTUUyXZpP1ADbNbRjQs0HZNwOBrxpi0C1RhHnxvwIiMqhI/Gdd+oa\nU5VlIrR9wC8zsMTE7JpZKjE4\n-----END PRIVATE KEY-----\n",
+  "client_email": "ga-553@avian-casing-229419.iam.gserviceaccount.com",
+  "client_id": "103096103412554511936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ga-553%40avian-casing-229419.iam.gserviceaccount.com"
+}

@@ -1,0 +1,17 @@
+gdelt
+
+newspaper3k
+
+google-cloud-bigquery
+
+twython
+
+gensim
+
+pyldavis
+
+textblob
+
+nltk
+
+spacy
